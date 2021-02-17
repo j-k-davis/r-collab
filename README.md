@@ -3,4 +3,6 @@
 hello world, I am partner 2
 
 
-I have a cat named Pyrite
+
+Hi partner 2, I am partner 1 
+i am making a change
